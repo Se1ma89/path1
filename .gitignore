@@ -7,7 +7,6 @@ patchnetvlad/results/*
 patchnetvlad/output_features/*
 results/*
 
-## Python stuff
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
